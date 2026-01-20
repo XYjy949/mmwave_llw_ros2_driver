@@ -1,0 +1,5 @@
+uint8 awr2243_nerror
+uint8 rx_error
+uint8 tx_error
+uint8 radar_jamming_status
+uint8 radar_radome_status
